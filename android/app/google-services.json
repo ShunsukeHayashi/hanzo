@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "172798351656",
+    "project_id": "hanzo-335d8",
+    "storage_bucket": "hanzo-335d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:172798351656:android:0c7f1e80d8b1a8ca33981d",
+        "android_client_info": {
+          "package_name": "com.mycompany.shinobiai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNKPufG7lJ0Ar_Bfod339rRE7waBvixbQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
